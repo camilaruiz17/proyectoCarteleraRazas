@@ -1,0 +1,60 @@
+
+header {
+    margin-bottom: 40px;
+}
+
+h1{
+    font-family: 'Fredoka One', cursive;
+}
+
+.d-inline-block{
+    display: flex;
+    justify-content: center;
+}
+
+.imageCard {
+    max-width: 100%;
+    margin: 0 auto;
+}
+.name {
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+}
+.size {
+    font-size: 20px;
+    text-align: center;
+    margin-top: -15px;
+}
+
+.bg-brand {
+    background-color: #faeaea !important;
+}
+
+.topbar{
+    background-color: #d8d8d8;
+}
+
+.shadow {
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.18);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.18);
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.18);
+}
+
+.svg-icon {
+    width: 5em;
+    height: 5em;
+  }
+  
+  .svg-icon path,
+  .svg-icon polygon,
+  .svg-icon rect {
+    fill: hsl(0, 54%, 3%);
+  }
+  
+  .svg-icon circle {
+    stroke:#f6d8d8d8;
+    stroke-width: 1;
+  }
+
+  

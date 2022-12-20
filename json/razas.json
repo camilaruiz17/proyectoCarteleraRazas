@@ -1,0 +1,194 @@
+{
+  "razas": [
+    {
+      "id": 1,
+      "caratula": "https://cdn.royalcanin-weshare-online.io/dWnCsmoBG95Xk-RB9_aU/v1/bd327h-hub-wire-haired-pointing-griffon-korthals-adult-black-and-white?w=720&fm=jpg&auto=compress",
+      "titulo": "Grifón de muestra de pelo duro",
+      "descripcion": "El objetivo de esta raza era obtener perros más lentos que los veloces perros británicos, pero más rápidos que los torpes perros continentales. El resultado es un animal que se adapta bien a cualquier terreno.El grifón de muestra de pelo duro es un cazador excelente que está muy unido a sus dueños y a su territorio el cual guarda con dedicación. Este perro orgulloso es muy dócil con los niños. Estos perros vigorosos y resistentes de tamaño mediano y forma rectangular tienen los ojos de color amarillo oscuro o marrón sin cejas prominentes, pero con un bigote y una barba que les dan una expresión de seguridad.",
+      "tamanio": "Mediano"
+    },
+    {
+      "id": 2,
+      "caratula": "https://cdn.royalcanin-weshare-online.io/zWnzsmoBG95Xk-RBOPYg/v1/bd257h-hub-old-danish-pointing-dog-adult-black-and-white?w=720&fm=jpg&auto=compress",
+      "titulo": "Antiguo Perro de Muestra Danés",
+      "descripcion": "Los Antiguos Perros de Muestra Daneses pertenecen a una raza tranquila y equilibrada, son muy determinados y valientes. Estos perros de constitución rectangular y tamaño mediano son de complexión robusta. El origen de la raza se remonta aproximadamente a 1710 cuando un hombre llamado Morten Bak cruzó perros gitanos con perros de granja locales durante ocho generaciones, y así estableció una raza pura de perros blancos y marrones a la que llamó Antiguo Perro de Muestra Danés.",
+      "tamanio": "Grande"
+    },
+    {
+      "id": 3,
+      "caratula": "https://cdn.royalcanin-weshare-online.io/nProsmoBIYfdNSoCJRjr/v5/bd291h-hub-deerhound-adult-black-and-white?w=720&fm=jpg&auto=compress",
+      "titulo": "Lebrel Escocés",
+      "descripcion": "Estos perros de buen carácter son muy confiados, nunca están nerviosos y tienen mucha presencia. Parecen galgos de pelo duro pero más grandes y con huesos de mayor tamaño, los Lebreles Escoceses son excelentes compañeros, maravillosos cazadores y corredores habilidosos. Tradicionalmente, en Escocia siempre ha habido lebreles de pelo duro. Mediante procesos de cruce y selección se llegó al Lebrel Escocés, que ahora es una raza emblemática en Escocia.",
+      "tamanio": "Grande"
+    },
+    {
+      "id": 4,
+      "caratula": "https://cdn.royalcanin-weshare-online.io/qfouHWsBIYfdNSoCuhpy/v1/bd18h-hub-bernese-mountain-dog-adult-black-and-white?w=720&fm=jpg&auto=compress",
+      "titulo": "Boyero de Berna",
+      "descripcion": "Originalmente utilizado como perro pastor y guardián en las granjas de la región suiza de Berna, el Boyero de Berna es un perro de trabajo versátil aunque también es muy apreciado como perro de compañía. Su llamativo manto tricolor y su gran capacidad de adaptación le ha hecho ganarse el afecto de familias de todo el mundo. Equilibrado, atento e intrépido en situaciones cotidianas, es simpático y leal con las personas que conoce, a la vez que seguro de sí mismo y tranquilo en presencia de desconocidos.",
+      "tamanio": "Muy grande"
+    },
+    {
+      "id": 5,
+      "caratula": "https://cdn.royalcanin-weshare-online.io/2SIrxWoBaxEApS7LtRsi/v1/bd171h-hub-continental-toy-spaniel-adult-black-and-white?w=720&fm=jpg&auto=compress",
+      "titulo": "Spaniel continental enano",
+      "descripcion": "El spaniel continental enano es un perro pequeño de constitución armoniosa y pelo largo que tiene dos variedades, phalene y papillon. Estos spaniels alegres y graciosos pero robustos se mueven fácilmente, con orgullo y elegancia. El hocico es moderadamente largo aunque más corto que el cráneo. El cuerpo es ligeramente más largo que alto. Las orejas son una característica distintiva del spaniel continental enano. En el phalene, están situadas por encima del nivel de los ojos, colgantes pero móviles. En el papillon, las orejas están en una posición elevada, con una aurícula amplia y girada Sea cual sea la variedad, las orejas nunca son puntiagudas como en un spitz.",
+      "tamanio": "Muy pequeño"
+    },
+    {
+      "id": 6,
+      "caratula": "https://cdn.royalcanin-weshare-online.io/FiJ8HWsBaxEApS7LTR1p/v1/bd48h-hub-cavalier-king-charles-spaniel-adult-black-and-white?w=720&fm=jpg&auto=compress",
+      "titulo": "Cavalier King Charles",
+      "descripcion": "Su naturaleza alegre y afable, carente de cualquier agresividad, ha acrecentado la popularidad de esta raza desde finales del milenio pasado. Activo, afable y equilibrado, el Cavalier King Charles tiene una expresión especialmente dócil, con grandes ojos oscuros que exudan inteligencia y curiosidad. Son perros activos a los que les gusta el ejercicio al aire libre y que sienten atracción por el agua. son alegres, leales, independientes y fáciles de adiestrar.",
+      "tamanio": "Pequeño"
+    },
+    {
+      "id": 7,
+      "caratula": "https://cdn.royalcanin-weshare-online.io/9voEHmsBIYfdNSoCfRoY/v5/bd155h-hub-french-pointing-dog-pyrenean-type-adult-black-and-white?w=720&fm=jpg&auto=compress",
+      "titulo": "Braco Francés, Tipo Pirineos",
+      "descripcion": "El Braco Francés proviene del sur de los Pirineos. Es una raza muy adaptable por lo que suele convivir con cazadores de otras regiones de Francia y del extranjero. El Braco Francés tipo Pirineos tiene las mismas características generales que el tipo Gascuña, solo que es más pequeño y liviano. Estos perros son robustos, bien musculados, pero no son pesados.",
+      "tamanio": "Muy grande"
+    },
+    {
+      "id": 8,
+      "caratula": "https://cdn.royalcanin-weshare-online.io/6mlRHWsBG95Xk-RB_Phy/v1/bd36h-hub-borzoi-adult-black-and-white?w=720&fm=jpg&auto=compress",
+      "titulo": "Borzoi",
+      "descripcion": "El borzoi es una raza leal, cariñosa y confiable que florece en compañía humana, lo cual los convierte en perros fantásticos para las familias activas. Sin embargo, este perro no debe menospreciarse. Su gran estatura significa que requiere mucho espacio para vivir y su caracterísito pelaje necesita muchos cuidados.",
+      "tamanio": "Muy grande"
+    },
+    {
+      "id": 9,
+      "caratula": "https://cdn.royalcanin-weshare-online.io/2Wk8HWsBG95Xk-RBMPg7/v1/bd24h-hub-american-cocker-spaniel-adult-black-and-white?w=720&fm=jpg&auto=compress",
+      "titulo": "Cocker spaniel americano",
+      "descripcion": "Estos perros extrovertidos son apreciados por muchos y su tamaño permite llevarlos a casi cualquier parte. Aunque es el menor de los perros deportivos, los cocker spaniels americanos son muy proporcionados, con una cabeza finamente cincelada sobre un cuerpo fuerte y compacto. Los cocker spaniels americanos son perros amigables, afables y tranquilos que establecen fuertes vínculos con su familia.",
+      "tamanio": "Mediano"
+    },
+    {
+      "id": 10,
+      "caratula": "https://cdn.royalcanin-weshare-online.io/P_ovx2oBIYfdNSoCbhm4/v1/bd102h-hub-schipperke-adult-black-and-white?w=720&fm=jpg&auto=compress",
+      "titulo": "Schipperke",
+      "descripcion": "Los Schipperkes son pequeños perros pastores con una constitución compacta. Su pelaje es muy distintivo, con el pelo liso formando crines y volantes. Sus rasgos finos, junto con su curiosidad de perro pastor y su tamaño, explican su gran popularidad más allá de Bélgica. Estos excepcionales perros demuestran un gran afecto por sus familias, pero pueden ser distantes con los extraños, lo que los convierte en populares perros guardianes.",
+      "tamanio": "Pequeño"
+    },
+    {
+      "id": 11,
+      "caratula": "https://cdn.royalcanin-weshare-online.io/kvqoHGsBIYfdNSoC5hr9/v5/bd4h-hub-dachshund-adult-black-and-white?w=720&fm=jpg&auto=compress",
+      "titulo": "Teckel",
+      "descripcion": "Hay nueve variedades distintas de Teckel, cada una con diferentes tamaños y tipos de pelaje. A pesar de tener patas cortas, son muy activos, pero sus necesidades de ejercicio físico pueden cumplirse fácilmente. Esto permite que la raza se adapte bien a la vida de la ciudad o a un espacio reducido. En general, se cree que los Teckels desarrollan distintos temperamentos en función del tipo de pelaje que tengan, así que asegúrate de saber qué tipo de Teckel se adaptará mejor a tu situación. Se piensa que los Teckels de pelo largo son mucho más tranquilos que sus homólogos de pelo corto y duro.",
+      "tamanio": "Pequeño"
+    },
+    {
+      "id": 12,
+      "caratula": "https://cdn.royalcanin-weshare-online.io/FfomxWoBIYfdNSoC1xkJ/v1/bd165h-hub-cesky-terrier-adult-black-and-white?w=720&fm=jpg&auto=compress",
+      "titulo": "Terrier checo",
+      "descripcion": "El objetivo a la hora de desarrollar esta raza era obtener un terrier de caza ligero y de patas cortas con buena pigmentación y pequeñas orejas caídas que fuese fácil de adiestrar y cuidar. Hoy en día, los terriers checos, inicialmente utilizados para cazar zorros y tejones, son principalmente animales de compañía. Musculosos y de buena constitución pero nada antagónicos, estos perros especialmente tranquilos, agradables y alegres son algo tímidos con los extraños.",
+      "tamanio": "Pequeño"
+    },
+    {
+      "id": 13,
+      "caratula": "https://cdn.royalcanin-weshare-online.io/Mvoqx2oBIYfdNSoCphk1/v1/bd88h-hub-norfolk-terrier-adult-black-and-white?w=720&fm=jpg&auto=compress",
+      "titulo": "Terrier de Norfolk",
+      "descripcion": "El de Norfolk es un Terrier un poco más pequeño de lo habitual, pero no por ello menos audaz y vivaz. De baja altura a la cruz, compacto y robusto, el de Norfolk es uno de los Terriers más pequeños que existen, pero aún así, es muy vigoroso. Se trata de un perro muy cariñoso y leal al que le gusta acurrucarse al lado de su dueño, lo cual no quiere decir que le guste estar sobre su regazo. El Terrier de Norfolk es muy activo y le encanta embarcarse en nuevas aventuras.",
+      "tamanio": "Pequeño"
+    },
+    {
+      "id": 14,
+      "caratula": "https://cdn.royalcanin-weshare-online.io/7GlTHWsBG95Xk-RBMPh5/v1/bd37h-hub-boston-terrier-adult-black-and-white?w=720&fm=jpg&auto=compress",
+      "titulo": "Boston terrier",
+      "descripcion": "Los Boston terriers son perros alegres y sumamente inteligentes que tienen muy buena fama como excelentes compañeros. Los Boston terriers transmiten una imagen de determinación, fuerza y actividad, y se mueven con libertad y elegancia. Los Boston terriers son perros atentos, afables y cariñosos a los que se les reconoce fácilmente por su característico pelaje blanco y negro, que recuerda a un esmoquin.",
+      "tamanio": "Pequeño"
+    },
+    {
+      "id": 15,
+      "caratula": "https://cdn.royalcanin-weshare-online.io/-2laHWsBG95Xk-RBd_jN/v1/bd43h-hub-bull-terrier-adult-black-and-white?w=720&fm=jpg&auto=compress",
+      "titulo": "Bull terrier",
+      "descripcion": "Los bull terriers son perros dedicados y valientes considerados poco menos que los gladiadores del mundo canino. Equilibrados y dispuestos para la disciplina, los bull terriers son especialmente buenos con las personas y se asientan bien en el papel de acompañante familiar. Fuertes, bien equilibrados y activos, los bull terriers tienen una expresión alegre, obstinada e inteligente. En acción, los bull terriers se ven muy resueltos; se mueven con pasos regulares, amplios y gráciles, con una agilidad característica. ",
+      "tamanio": "Pequeño"
+    },
+    {
+      "id": 16,
+      "caratula": "https://cdn.royalcanin-weshare-online.io/-_ptwWoBIYfdNSoCdRgY/v1/bd189h-hub-field-spaniel-adult-black-and-white?w=720&fm=jpg&auto=compress",
+      "titulo": "Field spaniel",
+      "descripcion": "Destacan por ser unos perros excepcionalmente tranquilos, activos, sensibles e independientes, pero que disfrutan enormemente del contacto cercano y regular con su propietario. Estos perros perdigueros por naturaleza, con tan buen olfato, dan siempre el máximo de sí mismos, incluso en terrenos difíciles, aprovechando toda su inteligencia y versatilidad. A los field spaniel les encantan los espacios abiertos; la vida urbana no es para ellos, y es en el campo donde son maravillosos compañeros. También son perros de caza ideales.",
+      "tamanio": "Mediano"
+    },
+    {
+      "id": 18,
+      "caratula": "https://cdn.royalcanin-weshare-online.io/5_rnHWsBIYfdNSoCABpW/v1/bd124h-hub-american-akita-adult-black-and-white?w=720&fm=jpg&auto=compress",
+      "titulo": "Akita Americano",
+      "descripcion": "Simpático, alerta, receptivo, digno, dócil y valiente: estos son los adjetivos que mejor describen a los Akitas Americanos. Este fuerte compañero es muy elogiado por su instinto protector innato, y se recomienda socializarlo desde una edad muy temprana. Son relativamente desconfiados con las personas que no conocen y un poco dominantes en las relaciones con otros perros.",
+      "tamanio": "Grande"
+    },
+    {
+      "id": 19,
+      "caratula": "https://cdn.royalcanin-weshare-online.io/kfrcsmoBIYfdNSoCtxjp/v1/bd256h-hub-nova-scotia-duck-tolling-retriever-adult-black-and-white?w=720&fm=jpg&auto=compress",
+      "titulo": "Nova Scotia Duck Tolling Retriever",
+      "descripcion": "Son nadadores fuertes y hábiles. Por naturaleza son perros de presa tenaces en tierra y en agua, listos para lanzarse a la acción en cualquier momento. La pasión por recuperar a las presas y por jugar son aspectos claves de su capacidad de trabajo. Son de complexión y musculatura bien proporcionada, de huesos relativamente pesados, pero muy ágiles, en alerta y voluntariosos. Muchos de estos perros tiene una expresión bastante triste, pero cuando trabajan, su apariencia cambia y se ven muy concentrados y emocionados.",
+      "tamanio": "Mediano"
+    },
+    {
+      "id": 20,
+      "caratula": "https://cdn.royalcanin-weshare-online.io/JPoiHmsBIYfdNSoCyhvm/v3/bd318h-hub-thai-ridgeback-dog-adult-black-and-white?w=720&fm=jpg&auto=compress",
+      "titulo": "Perro Tailandés con Cresta",
+      "descripcion": "Estos perros fuertes y activos, muy famosos por ser excelentes saltadores, son compañeros muy leales. Son de tamaño mediano y tienen una cresta de pelo en el lomo y músculos bien desarrollados. El Perro Tailandés con Cresta es una raza antigua que aparece en documentos arqueológicos de Tailandia redactados hace unos 360 años. Se utilizaba principalmente para la caza en la región oriental de Tailandia. La gente también lo usaba para escoltar sus carros y como perro guardián.",
+      "tamanio": "Mediano"
+    },
+    {
+      "id": 21,
+      "caratula": "https://cdn.royalcanin-weshare-online.io/Ofotx2oBIYfdNSoCQRld/v1/bd96h-hub-puli-black-and-white?w=720&fm=jpg&auto=compress",
+      "titulo": "Puli",
+      "descripcion": "Los Pulis son perros con un aspecto característico: están cubiertos de un pelaje denso y grueso que les ayuda a soportar las duras condiciones meteorológicas de los inviernos húngaros. Criados para interactuar de cerca con el hombre, los Pulis son perros fieles y sociables que aprenden rápido. Su carácter afable lo convierte en un magnífico perro de familia en hogares con niños y otras mascotas.",
+      "tamanio": "Mediano"
+    },
+    {
+      "id": 22,
+      "caratula": "https://cdn.royalcanin-weshare-online.io/F_orxWoBIYfdNSoCMxlC/v3/bd170h-hub-clumber-spaniel-adult-black-and-white?w=720&fm=jpg&auto=compress",
+      "titulo": "Clumber spaniel",
+      "descripcion": "Los clumber spaniels son perros estoicos, de gran corazón y muy inteligentes con una determinación que mejora sus habilidades naturales. Son trabajadores silenciosos que aprovechan sus sentidos excelentes y compañeros constantes y seguros que desprenden amabilidad y dignidad. Estos perros bien equilibrados y de huesos desarrollados tienen una expresión pensativa. Son animales activos con una gran fuerza. Debido a su cuerpo largo y piernas cortas, los clumber spaniels tienen un andar rodante, avanzando en línea recta por delante y por detrás sin esfuerzo.",
+      "tamanio": "Grande"
+    },
+    {
+      "id": 23,
+      "caratula": "https://cdn.royalcanin-weshare-online.io/k_rgsmoBIYfdNSoCSxh-/v1/bd308h-hub-spanish-hound-adult-black-and-white?w=720&fm=jpg&auto=compress",
+      "titulo": "Sabueso Español",
+      "descripcion": "El Sabueso Español es un perro cariñoso y tranquilo que demuestra una bravura poco habitual al seguir la pista a presas grandes. Su especialidad es la caza menor, pero no se amedrenta ante animales de mayor tamaño, como jabalíes, ciervos, corzos, zorros, lobos u osos. Esta raza de tamaño mediano con largas orejas, tiene una estructura ósea compacta y robustas extremidades. Su expresión es tierna, triste y noble.",
+      "tamanio": "Pequeño"
+    },
+    {
+      "id": 24,
+      "caratula": "https://cdn.royalcanin-weshare-online.io/LSIwx2oBaxEApS7L9hwA/v1/bd106h-hub-spanish-mastiff-adult-black-and-white?w=720&fm=jpg&auto=compress",
+      "titulo": "Mastín Español",
+      "descripcion": "El Mastín Español está muy relacionado con traslado estacional del ganado de pasto a pasto, especialmente ovejas, a las que ha estado protegiendo de los lobos y otros depredadores desde la Edad Media. Actualmente también se utilizan para defender a personas y como perros guardianes. Este animal es muy inteligente, y de gran belleza, y ambos rasgos se expresan en su mirada. Resistente, cariñoso, tranquilo y noble, aunque excelente perro guardián antes animales que representen una amenaza ó personas extrañas.",
+      "tamanio": "Muy grande"
+    },
+    {
+      "id": 25,
+      "caratula": "https://cdn.royalcanin-weshare-online.io/qWnasmoBG95Xk-RBSfYL/v1/bd250h-hub-neopolitan-mastiff-adult-black-and-white?w=720&fm=jpg&auto=compress",
+      "titulo": "Mastín napolitano ",
+      "descripcion": "Inteligentes, estables y leales, y carentes de agresividad o brusquedad a menos que se les provoque, los mastines napolitanos son perros majestuosos y nobles que suponen más una mayor amenaza implícita, lo que los hace muy adecuados para tareas de guardia y protección. Los mastines napolitanos son una de las razas más antiguas de Italia. A pesar de su imponente tamaño y aspecto, estos perros son famosos por su increíble docilidad y tranquilidad. Dicho esto, debido a su tamaño y fuerza, no son adecuados para dueños primerizos.",
+      "tamanio": "Muy grande"
+    },
+    {
+      "id": 26,
+      "caratula": "https://cdn.royalcanin-weshare-online.io/JiLFHWsBaxEApS7LNR0J/v1/bd57h-hub-dogue-de-bordeaux-adult-black-and-white?w=720&fm=jpg&auto=compress",
+      "titulo": "Dogo de Burdeos",
+      "descripcion": "El Dogo de Burdeos está siempre en alerta y es muy valiente, cualidades que hacen de él un gran perro guardián. Estos perros son excelentes compañeros de sus propietarios y se vuelven muy apegados a su familia. Son cariñosos con los niños y tolerantes con otros perros.",
+      "tamanio": "Muy grande"
+    },
+    {
+      "id": 27,
+      "caratula": "https://cdn.royalcanin-weshare-online.io/LCLUHWsBaxEApS7Lch1q/v1/bd63h-hub-estrela-mountain-dog-adult-black-and-white?w=720&fm=jpg&auto=compress",
+      "titulo": "Perro de la Sierra de la Estrela",
+      "descripcion": "El Perro de la Sierra de la Estrela es un moloso tipo mastín. Equilibrado, compacto y resistente, se gana el respeto de los desconocidos gracias a su comportamiento firme y reservado. Destaca por la obediencia que profesa a su propietario y por ser un compañero leal e inseparable. Se emplea para proteger al rebaño de los lobos y los ladrones.",
+      "tamanio": "Muy grande"
+    },
+    {
+      "id": 27,
+      "caratula": "https://cdn.royalcanin-weshare-online.io/LiLXHWsBaxEApS7LXR2i/v1/bd66h-hub-great-dane-adult-black-and-white?w=720&fm=jpg&auto=compress",
+      "titulo": "Gran Danés",
+      "descripcion": "De constitución armoniosa y rostro expresivo, el Gran Danés es un gigante dócil. El Granés Danés es alegre y cariñoso con sus compañeros humanos, especialmente con los niños, aunque desconfían de los extraños. Un Gran Danés seguro de sí mismo, tranquilo y receptivo es un perro de familia altamente tolerante con escasa probabilidad de mostrarse agresivo.",
+      "tamanio": "Muy grande"
+    }
+    
+  ]
+}
