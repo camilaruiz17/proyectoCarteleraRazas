@@ -8,8 +8,8 @@
 </ul>
 
 <h2>Views<h2>
-<img src="https://user-images.githubusercontent.com/29289121/209017014-6679dcf4-6fc5-4a65-8e29-62072e547289.png" width="600px">
-<img src="https://user-images.githubusercontent.com/29289121/209017163-06bc82e2-e1b5-4c83-9897-9f9fb1c75223.png" width="600px">
+<img src="https://user-images.githubusercontent.com/29289121/209017014-6679dcf4-6fc5-4a65-8e29-62072e547289.png" width="300px">
+<img src="https://user-images.githubusercontent.com/29289121/209017163-06bc82e2-e1b5-4c83-9897-9f9fb1c75223.png" width="300px">
 
 <h2>2. User Stories:</h2>
 <p>The client asks me to develop:</p>
